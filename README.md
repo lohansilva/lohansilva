@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagio na Secretaria Municipal do Trabalho, Empreendedorismo e Inovação
-- 🌱 Eu estudando atualmente C, C#, HTML, CSS e Javascript.
+- 🌱 Eu estudando atualmente C#, HTML, CSS e Javascript em cursos extracurriculares voltados ao frontend e na Universidade estou aprimorando minhas técnicas em C com estrutura de dados e VHDL para embarcados.
 
 <div align="center">
   <a href="https://github.com/lohan007">
