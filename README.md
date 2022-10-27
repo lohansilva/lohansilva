@@ -1,6 +1,6 @@
 ## Olá!  👋
 
-- 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagio na Secretaria Municipal do Trabalho, Empreendedorismo e Inovação
+- 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagiando na Secretaria Municipal do Trabalho, Empreendedorismo e Inovação
 - 🌱 Eu estudando atualmente HTML, CSS, Javascript e Python em cursos extras e na Universidade estou aprimorando minhas técnicas em C e C++ com estrutura de dados que são as stacks que mais domino.
 - Meu perfil em construção e em constante evolução...
 
