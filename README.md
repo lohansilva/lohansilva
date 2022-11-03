@@ -2,7 +2,7 @@
 
 - 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagiando na Secretaria Municipal do Trabalho, Empreendedorismo e Inovação
 - 🌱 Estou estudando atualmente o básico de Front-end (html, css e js) e Python para ciência de dados (gosto demais de estudar essas tecnologias) em cursos extras e na Universidade estou aprimorando minhas técnicas em C e C++ com estrutura de dados que são as stacks que mais domino.
-- Meu perfil em construção e em constante evolução...
+- Meu perfil está em construção e em constante evolução...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lohan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
