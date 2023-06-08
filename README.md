@@ -1,7 +1,7 @@
 ## Olá!  👋
 
-- 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagiando na Secretaria Municipal do Trabalho, Empreendedorismo e Inovação
-- 🌱 Estou estudando atualmente o básico de Front-end (html, css e js) e Python para ciência de dados em cursos extras e na Universidade estou aprimorando minhas técnicas em C e C++ com estrutura de dados que são as stacks que mais domino.
+- 🔭 Estou cursando Engenharia da Computação na Universidade Federal do Amazonas e estagiando na LG Eletronics Brasil.
+- 🌱 Estou estudando atualmente o básico de Front-end (html, css e js) e Python com foco em RPA em cursos extras. Na Universidade estou aprimorando minhas técnicas em C e C++ com estrutura de dados que são as stacks que mais domino.
 - Meu perfil está em construção...
 
 <div style="display: inline_block"><br>
