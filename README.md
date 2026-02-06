@@ -1,6 +1,10 @@
 # Lohan Silva
 
-Me chamo Lohan, sou estudante de Engenharia da Computação na UFAM, atuo como Desenvolvedor de Software I na LG Eletronics, mas o meu papel vai além, sou tambem um agente de Transformação Digital e busco não só elevar a cultura de inovação da LG, mas também do ecossitema de Manaus e da região Norte.
+Olá! 👋
+
+Sou Desenvolvedor de Software no Instituto de Pesquisas Eldorado, onde contribuo para projetos de transformação digital e inovação tecnológica. Minha trajetória é pautada pela busca de soluções que simplifiquem processos e melhorem a vida das pessoas através da tecnologia.
+
+Do backend à automação inteligente com Python, meu foco é construir ferramentas robustas que impulsionem avanços significativos. Sou um defensor ativo do ecossistema de tecnologia da região Norte e acredito no poder da educação e do compartilhamento de conhecimento.
 
 ### Conecte-se comigo
 
