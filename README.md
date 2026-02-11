@@ -50,6 +50,15 @@ Do backend à automação inteligente com Python, meu foco é construir ferramen
         </a>
       </td>
     </tr>
+    <tr>
+      <td>30/03/2024</td>
+      <td>Conteudos Programação - Gratuitos</td>
+      <td align="center">
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7298881930186391552/" target="_blank">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
     
   </tbody>
   <tfoot></tfoot>
