@@ -51,7 +51,7 @@ Do backend à automação inteligente com Python, meu foco é construir ferramen
       </td>
     </tr>
     <tr>
-      <td>30/03/2024</td>
+      <td>11/03/2025</td>
       <td>Conteudos Programação - Gratuitos</td>
       <td align="center">
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7298881930186391552/" target="_blank">
