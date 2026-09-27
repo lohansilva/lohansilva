@@ -3,7 +3,7 @@
 Olá! 👋
 
 Sou **Analista de Software Pleno** no Instituto de Pesquisas Eldorado, formado em Análise e
-Desenvolvimento de Sistemas e cursando pós-graduação em **RPA e Hiperautomação** pela PUC Minas.
+Desenvolvimento de Sistemas e cursando pós-graduação em **Inteligência Artificial e Machine Learning** pela PUC Minas.
 
 Trabalho com automação de processos, RPA, desenvolvimento backend e **criação de agentes de IA** —
 do mapeamento de requisitos à implementação com Python, LangChain, CrewAI e integrações REST.
