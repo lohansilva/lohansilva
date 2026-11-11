@@ -19,7 +19,7 @@ Ao longo da trajetória, passei por iniciativas de educação tecnológica, auto
 - Desenvolvimento **full-stack**, integrando interfaces, APIs, dados e componentes de IA.
 - Participação na **arquitetura e engenharia de soluções**, da compreensão dos requisitos às decisões técnicas e implementação.
 - Construção de **sistemas inteligentes**, combinando fundamentos de ML/IA e práticas de engenharia de software.
-- Participação em atividades de estudo e troca técnica sobre **sistemas multiagentes**, incluindo colaboração em publicação com o Itaú *(referência bibliográfica a acrescentar)*.
+- Participação em atividades de estudo e troca técnica sobre **sistemas multiagentes**, incluindo coautoria em pesquisa sobre arquitetura multiagente com memória e orquestração baseada em LLMs, desenvolvida em colaboração entre o Instituto Eldorado e o Instituto de Ciência e Tecnologia Itaú.
 
 **Atuação anterior | Educação e projetos internos**
 
@@ -74,7 +74,7 @@ Atualmente também curso **pós-graduação em Inteligência Artificial e Machin
 
 - **2025 — Improving Learning Through Immersive Experiences in Digital Transformation Environments.** [DOI: 10.21125/inted.2025.1659](https://doi.org/10.21125/inted.2025.1659)
 - **2024 — DX Academy: Using Problem-Based Learning Methodology to Drive Process Automation with Disruptive Technologies.** [DOI: 10.21125/iceri.2024.1856](https://doi.org/10.21125/iceri.2024.1856)
-- **Sistemas multiagentes em colaboração com o Itaú** — referência do artigo a acrescentar após validação do título e do endereço público.
+- **2026 — Memory-Aware Multi-agent Architecture with LLM-Based Orchestration for Conversational Recommendation.** Publicado no BRACIS 2026, em *Lecture Notes in Computer Science* (Springer). [DOI: 10.1007/978-3-032-39892-5_25](https://doi.org/10.1007/978-3-032-39892-5_25). Coautoria em pesquisa colaborativa entre Eldorado e ICT Itaú.
 
 ### Registros da trajetória
 
